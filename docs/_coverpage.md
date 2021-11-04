@@ -1,12 +1,14 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+<!-- _coverpage.md -->
 
-# MJ_Mall
+![logo](_media/icon.svg)
 
-> 使用当前最主流Java技术栈，前后端分离的商城系统
+# docsify <small>3.5</small>
 
-* 前端框架：vue-cli、vue-router、vuex、axios
-* 后端框架：Springboot、springcloud alibaba、mybaits
-* 中间件：Mysql、RabbitMQ、Redis、Mongodb、Elasticsearch
+> 一个神奇的文档网站生成器。
 
-[GitHub](https://github.com/shelimingming/MJ_Mall.git)
-[Get Started](#quick-start)
+- 简单、轻便 (压缩后 ~21kB)
+- 无需生成 html 文件
+- 众多主题
+
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](#docsify)
